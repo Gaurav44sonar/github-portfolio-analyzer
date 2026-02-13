@@ -7,9 +7,9 @@
 
 ## Video Link
 
-```
-https://drive.google.com/file/d/1qk9iTzTOCUskZMUeeVHCyxtUAOS0G9sR/view?usp=sharing
-```
+▶️ Click below to watch the demonstration:
+
+https://drive.google.com/file/d/1qk9iTzTOCUskZMUeeVHCyxtUAOS0G9sR/view?usp=drive_link
 
 
 ## 🎯 The Problem
