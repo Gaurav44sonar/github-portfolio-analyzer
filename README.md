@@ -253,12 +253,3 @@ A working demo video is included as required in the hackathon submission guideli
 - 🔍 Resume-to-GitHub Alignment Analyzer
 
 ---
-
-## 👨‍💻 Built For Hackathon Submission
-
-Organized by **UnsaidTalks Education**
-
----
-
-## ⭐ If this project helped you, consider starring the repository.
-
