@@ -5,6 +5,13 @@
 
 ---
 
+## 🌐 Live Deployment
+
+The application is fully deployed and publicly accessible.
+
+🔗 **Live App:**  
+👉 https://github-portfolio-analyzer-a2bp.onrender.com
+
 ## Video Link
 
 ▶️ Click below to watch the demonstration:
