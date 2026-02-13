@@ -1,0 +1,222 @@
+{
+    "profile": {
+        "username": "Vedant121613",
+        "name": null,
+        "bio": null,
+        "followers": 0,
+        "following": 2,
+        "public_repos": 7,
+        "created_at": "2025-03-04T16:26:56+00:00",
+        "avatar_url": "https://avatars.githubusercontent.com/u/201781575?v=4",
+        "profile_url": "https://github.com/Vedant121613"
+    },
+    "repositories": [
+        {
+            "name": "bajaj",
+            "description": null,
+            "language": "Python",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-07-30T05:05:04+00:00",
+            "updated_at": "2025-07-30T17:50:00+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": "MIT License",
+            "structure": [
+                ".gitIgnore",
+                "API_KEY.txt",
+                "LICENSE",
+                "README.md",
+                "__pycache__",
+                "authorization.py",
+                "main.py",
+                "rag_cache",
+                "rag_pipeline.py",
+                "render.yaml",
+                "requirements.txt",
+                "start.sh",
+                "temp.pdf",
+                "utils.py"
+            ],
+            "readme": "# bajaj",
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "BookBird",
+            "description": null,
+            "language": "PHP",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-04-07T08:44:22+00:00",
+            "updated_at": "2025-04-07T09:29:39+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": "MIT License",
+            "structure": [
+                "Author.php",
+                "LICENSE",
+                "Product.php",
+                "README.md",
+                "Result.php",
+                "bookstore.sql",
+                "cart.php",
+                "css",
+                "dbconnect.php",
+                "description.php",
+                "destroy.php",
+                "fonts",
+                "img",
+                "index.php",
+                "js",
+                "login.php",
+                "query.php",
+                "register.php",
+                "screenshot"
+            ],
+            "readme": "# BookStore:\nA responsive website that displays available books in the store, along with their details.Website provides options such as browsing books based on categories or authors, searching the required book, viewing full description page of any book. It is also possible to sort the listing based on price or discount. User can register and login on subsequent accesses, view his/her cart, buy desired books. In case of any problem user can ask query which is directly sent as a mail to admin.\n\n## Screenshots:\n<p>\n  <kbd><img src=\"screenshot/index.png\" width=\"350\" height=\"450\"/></kbd>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <kbd><img src=\"screenshot/category.png\" width=\"350\" height=\"450\"/></kbd>\n</p>\n\n<p>\n  <kbd><img src=\"screenshot/search.png\" width=\"350\" height=\"450\"/></kbd>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <kbd><img src=\"screenshot/description.png\" width=\"350\" height=\"450\"/></kbd>\n</p>\n\n<p>\n  <kbd><img src=\"screenshot/cart.png\" width=\"350\" height=\"250\"/></kbd>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <kbd><img src=\"screenshot/query.png\" width=\"350\" height=\"250\"/></kbd>\n</p>\n\n## Setup:\n* Install Xampp if not already installed. Can be downloaded from https://www.apachefriends.org/download.html\n* Place the repository in htdocs folder of xampp\n* Go to Xampp control panel and start apache and MySQL.\n* Import the database bookstore.sql in MySql server.\n* Set up the connection credentials in dbconnect.php </br>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src=\"screenshot/connection.png\" width=\"200\" height=\"100\"/></kbd>\n* Thats it. Open <a href=\"http://localhost/bookstore/\">localhost/bookstore/</a> in your browser\n\n## Website Link :\n<a href=\"http://shivangibookshop.byethost7.com\">http://shivangibookshop.byethost7.com</a>\n\n## Licence :\nMIT - see the accompanying [LICENSE](https://github.com/shivangigupta1404/BookStore/blob/master/LICENSE) file for details.\n",
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "Resource-Optimization",
+            "description": null,
+            "language": "JavaScript",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": true,
+            "created_at": "2025-12-19T10:10:08+00:00",
+            "updated_at": "2025-12-19T10:18:05+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": false,
+            "license": null,
+            "structure": [
+                "Backend",
+                "Frontend",
+                "package-lock.json",
+                "scheduler"
+            ],
+            "readme": null,
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "resource_opt",
+            "description": null,
+            "language": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-12-02T07:45:47+00:00",
+            "updated_at": "2025-12-02T07:45:47+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": null,
+            "structure": [],
+            "readme": null,
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "SafeRoad_AI",
+            "description": null,
+            "language": "Jupyter Notebook",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-09-28T19:28:50+00:00",
+            "updated_at": "2025-09-29T10:35:41+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": null,
+            "structure": [
+                "client",
+                "flask_backend"
+            ],
+            "readme": null,
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "sim",
+            "description": null,
+            "language": "Python",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-07-30T20:11:59+00:00",
+            "updated_at": "2025-08-02T17:22:25+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": "MIT License",
+            "structure": [
+                ".gitIgnore",
+                "LICENSE",
+                "Procfile",
+                "README.md",
+                "authorization.py",
+                "main.py",
+                "rag_pipeline.py",
+                "requirements.txt",
+                "utils.py"
+            ],
+            "readme": "# sim",
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        },
+        {
+            "name": "simple",
+            "description": null,
+            "language": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "is_fork": false,
+            "created_at": "2025-07-30T20:10:15+00:00",
+            "updated_at": "2025-07-30T20:10:15+00:00",
+            "topics": [],
+            "default_branch": "main",
+            "has_issues": true,
+            "license": null,
+            "structure": [],
+            "readme": null,
+            "commit_stats": {
+                "total_commits": 0,
+                "recent_30_days": 0
+            }
+        }
+    ]
+}
